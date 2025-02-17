@@ -83,6 +83,7 @@ export default function Page() {
                   <Checkbox id="sympathy" />
                   <label htmlFor="sympathy">Condolencia</label>
                 </div>
+                
               </div>
               <Select>
                 <SelectTrigger>
@@ -91,6 +92,7 @@ export default function Page() {
                 <SelectContent>
                   <SelectItem value="15-anos">15 años</SelectItem>
                   <SelectItem value="Nacimiento">Nacimiento</SelectItem>
+                  <SelectItem value="Grado">Grado</SelectItem>
                 </SelectContent>
               </Select>
             </div>
