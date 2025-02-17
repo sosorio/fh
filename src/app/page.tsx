@@ -93,6 +93,7 @@ export default function Page() {
                   <SelectItem value="15-anos">15 años</SelectItem>
                   <SelectItem value="Nacimiento">Nacimiento</SelectItem>
                   <SelectItem value="Grado">Grado</SelectItem>
+                  <SelectItem value="Agradecimiento">Agradecimiento</SelectItem>
                 </SelectContent>
               </Select>
             </div>
